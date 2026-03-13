@@ -25,33 +25,6 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-:root {
-  --bg-dark: #070E1A;
-  --card-dark: #0F1C2E;
-  --border-dark: #1E3A5F;
-  --accent-cyan: #00D4FF;
-}
-
-body {
-  font-family: var(--font-inter);
-}
-
-h1, h2, h3 {
-  font-family: var(--font-barlow);
-}
-
-:root {
-  --primary-bg: #222831;
-  --secondary-bg: #393E46;
-  --accent: #00ADB5;
-  --text-light: #EEEEEE;
-}
-
-body {
-  background-color: var(--primary-bg);
-  color: var(--text-light);
-}
-
 .section-container {
   max-width: 1200px;
   margin: 0 auto;
